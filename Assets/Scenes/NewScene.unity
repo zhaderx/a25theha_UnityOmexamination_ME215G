@@ -651,7 +651,7 @@ AudioSource:
   m_Resource: {fileID: 8300000, guid: 355b3d7c3a0a9d14985ce9fdd8c5f5c0, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
-  m_Pitch: 1
+  m_Pitch: 0.65
   Loop: 1
   Mute: 0
   Spatialize: 0
@@ -659,7 +659,7 @@ AudioSource:
   Priority: 128
   DopplerLevel: 1
   MinDistance: 1
-  MaxDistance: 25.29
+  MaxDistance: 50.69
   Pan2D: 0
   rolloffMode: 1
   BypassEffects: 0
@@ -1785,7 +1785,7 @@ AudioSource:
   m_Resource: {fileID: 8300000, guid: 95fe85472d5e02447835f220e25bad82, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
-  m_Pitch: -1.05
+  m_Pitch: 1
   Loop: 0
   Mute: 0
   Spatialize: 0
