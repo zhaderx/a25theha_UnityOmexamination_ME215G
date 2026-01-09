@@ -505,11 +505,12 @@ MonoBehaviour:
   textBox: {fileID: 1740421653}
   nextButton: {fileID: 966280181}
   dialogue:
-  - Hello!
+  - Hello! You are a Red Bloodcell.
   - 
-  - You are a Red Bloodcell
+  - There has been a breach in your sector!
   - 
-  - Your mission is to travel the body
+  - Your mission is to go there as fast as possible and sacrifice yourself to clog
+    the would! GET MOVING!
   - 
   - ummmmmm, please klick the button on the top right :D
   - 
