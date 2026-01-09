@@ -9,7 +9,7 @@ public class SceneChnagerFirst : MonoBehaviour
 {
     public void ChangeScene()
     {
-        // Load the scene named "NewScene"
+        // Load the scene named "SecondScene"
         SceneManager.LoadSceneAsync("SecondScene", LoadSceneMode.Single);
     }
 
